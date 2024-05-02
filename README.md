@@ -15,11 +15,9 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,figma&perline=5)](https://skillicons.dev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakash&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash&theme=dark)
 
 
 <br>
