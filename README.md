@@ -1,9 +1,10 @@
  <h1 align="center">Hi 👋, I'm Aakash Agarwal</h1>
 
-- 🔭 I’m currently working on flutter and firebase.
+- 🔭 I’m an expert flutter developer and use firebase for back end deployment.
 - feel free to discuss your project requirements with me anytime.
-- 👯 I’m looking to collaborate on android projects.
-- 🤔 I’m looking for help with finding a job.
+- I am learning MERN stack.
+- 👯 I’m looking to collaborate on flutter projects.
+- 🤔 I’m open to all types of opportunities.
 - 📫 How to reach me: aakash@instrik.com
 
 ### Connect with me:
