@@ -2,7 +2,7 @@
 
 - 🔭 I’m an expert flutter developer and use firebase for back end deployment.
 - feel free to discuss your project requirements with me anytime.
-- I am learning MERN stack.
+- I am learning Python and Kotlin.
 - 👯 I’m looking to collaborate on flutter projects.
 - 🤔 I’m open to all types of opportunities.
 - 📫 How to reach me: aakash@instrik.com
