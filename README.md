@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aakash@instrik.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1oj_C6TrA0Xh-CTOsc1krbHJcJxztOkp1-j7JMQvZvOQ/edit](https://docs.google.com/document/d/1oj_C6TrA0Xh-CTOsc1krbHJcJxztOkp1-j7JMQvZvOQ/edit)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q5iUTqKtHwDKYhEewwH6eZrl2_mI5i-H/view?usp=sharing](https://drive.google.com/file/d/1q5iUTqKtHwDKYhEewwH6eZrl2_mI5i-H/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
