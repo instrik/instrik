@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **aakash@instrik.com**
 
--  📫 Contact me on **+91-7409442403**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1q5iUTqKtHwDKYhEewwH6eZrl2_mI5i-H/view?usp=sharing](https://drive.google.com/file/d/1q5iUTqKtHwDKYhEewwH6eZrl2_mI5i-H/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
