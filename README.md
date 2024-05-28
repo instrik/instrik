@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aakash Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">as flutter developer. I use firebase for backend deployment.</h3>
 
 - 🌱 I’m currently exploring **flutter related opportunities**
