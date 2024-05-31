@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/instrik](https://github.com/instrik)
 
-- 📫 Contact me at  **aakash@instrik.com**
+- 📫 Contact me on **aakash@instrik.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1q5iUTqKtHwDKYhEewwH6eZrl2_mI5i-H/view?usp=sharing](https://drive.google.com/file/d/1q5iUTqKtHwDKYhEewwH6eZrl2_mI5i-H/view?usp=sharing)
 
