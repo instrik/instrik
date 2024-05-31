@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aakash Agarwal</h1>
 <h3 align="center">I am a flutter developer. I use firebase for backend.</h3>
 
-- 🌱 I’m open to all **job opportunities**
+- 🌱 I’m open to all **opportunities**
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/instrik](https://github.com/instrik)
 
-- 📫 Contact me on **aakash@instrik.com**
+- 📫 Contact me at **aakash@instrik.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1q5iUTqKtHwDKYhEewwH6eZrl2_mI5i-H/view?usp=sharing](https://drive.google.com/file/d/1q5iUTqKtHwDKYhEewwH6eZrl2_mI5i-H/view?usp=sharing)
 
