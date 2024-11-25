@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash Agarwal</h1>
-<h3 align="center">I am full stack flutter developer.</h3>
+<h3 align="center">I am full stack developer.</h3>
 
 - 🌱 I’m open to all **opportunities**
 
